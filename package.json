@@ -22,11 +22,12 @@
     "upload",
     "file-transfer"
   ],
-  "author": "Johannes Lumpe <johannes@lum.pe> (https://github.com/johanneslumpe)",
+  "author":
+    "Johannes Lumpe <johannes@lum.pe> (https://github.com/johanneslumpe)",
   "license": "MIT",
   "dependencies": {
     "base-64": "^0.1.0",
-    "utf8": "^2.1.1"
+    "react-native-utf8": "git+https://github.com/eacbkk/utf8.js.git"
   },
   "devDependencies": {
     "flow-bin": "0.28.0",
